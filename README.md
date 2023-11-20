@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![244880913-ccf51c76-b9c6-4edb-a792-88236037d50d](https://github.com/KSIHORE/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/151484879/65b3ed80-c291-4f82-98e3-0815a96b4e08)
 
-### Name:
-### Register Number:
+### Name: KISHORE.B
+### Register Number: 212222110020
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
